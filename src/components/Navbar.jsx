@@ -32,7 +32,7 @@ const Navbar = () => {
           <FaInstagram />
         </a>
         <a
-          href="https://drive.google.com/file/d/1wPPW2nRFloZvKrLh8iRL9AcYmJ9vaVXN/view?usp=sharing"
+          href="https://drive.google.com/file/d/1OVEdEGL7UeCMKq_i1VfIXmKY56lrzLWr/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="ml-4 rounded-lg bg-purple-600 px-4 py-2 text-white hover:bg-purple-700 transition duration-300"
